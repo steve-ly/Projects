@@ -6,7 +6,8 @@ I have inorder to battle it out in a sort of weekly clash where placements deter
 final game to determine who gets the prize, which at this point is still up in the air. This project is essentially a way for me to further my addicition in combination with working on my 
 frontend development skills so that I can convince my friends to play :laughing:
 
-##mtgdeck_data
+## mtgdeck_data 
+### Uses customtkinter,selenium and BeautifulSoup
 During the initial development phase, I made a few decisions and design choices:
 1. I would host the website using github pages, since it was free
 2. This would mean I had to make a solely static website so I could not use a database server
@@ -21,3 +22,7 @@ get the image and the card names and save it into a json object. The source code
 4. Add/Edit Deck extra notes
 5. Add/Remove Deck Keywords (Currently glossary.json is simply placeholder)
 6. Create a match and add it to matches.json as well as updates leaderboard.json
+
+## mtgwebproj
+### React + Vite Javascript Tailwind css project
+While still in development and yet to be uploaded, this is the source code for a website that would display information my friends might need in order to partake in my MTG tournament. 
