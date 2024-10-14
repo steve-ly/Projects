@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Sora:wght@300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box; /* Ensure padding and border are included in element's total width and height */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+}
+
+body {
+  font-family: 'Poppins', sans-serif; /* Set a default font family */
+  background-color: black; /* Optional: Set a default background color */
+  color: white; /* Optional: Set a default text color */  
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0; /* Remove default margin for headings */
+}
+
+ul {
+  list-style-type: none; /* Remove bullets from list items */
+}
+
+.text-white {
+  color: white; /* Class for white text */
+}

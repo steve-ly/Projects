@@ -1,0 +1,358 @@
+{
+    "DeckName":"Desert Bloom",
+
+    "Commander":[{
+        "Image Source": "https://assets.moxfield.net/cards/card-AWNwR-normal.webp?126024805",
+        "Alt Text": "Yuma, Proud Protector"
+    }],
+    "BackUp":[
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-DjNQW-normal.webp?126024681",
+            "Alt Text": "Kirri, Talented Sprout"
+        }
+    ],
+
+    "Creatures":[
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-vrM8x-normal.webp?126024582",
+        "Alt Text": "Ancient Greenwarden"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-PbXq9-normal.webp?126024578",
+        "Alt Text": "Angel of Indemnity"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-bRX6J-normal.webp?126024583",
+        "Alt Text": "Angel of the Ruins"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-bRXNX-normal.webp?125748075",
+        "Alt Text": "Avenger of Zendikar"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-KPeqP-normal.webp?126024642",
+        "Alt Text": "Dune Chanter"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-KPeAK-normal.webp?126024644",
+        "Alt Text": "Eccentric Farmer"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-WaXol-normal.webp?126024643",
+        "Alt Text": "Elvish Rejuvenator"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-PbXmn-normal.webp?126024654",
+        "Alt Text": "Genesis Hydra"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-yjMrX-normal.webp?126024671",
+        "Alt Text": "Hazezon, Shaper of Sand"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-o8Mbj-normal.webp?126024708",
+        "Alt Text": "Nantuko Cultivator"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-MxeGB-normal.webp?126024701",
+        "Alt Text": "Nesting Dragon"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-BX9GR-normal.webp?126024709",
+        "Alt Text": "Omnath, Locus of Rage"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-loXM6-normal.webp?125376167",
+        "Alt Text": "Oracle of Mul Daya"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Q4Xxe-normal.webp?125376168",
+        "Alt Text": "Perennial Behemoth"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-3q8eq-normal.webp?124819008",
+        "Alt Text": "Ramunap Excavator"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-q4MWy-normal.webp?126024733",
+        "Alt Text": "Rumbleweed"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-bRXq8-normal.webp?126024729",
+        "Alt Text": "Sand Scout"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-0187W-normal.webp?125174608",
+        "Alt Text": "Satyr Wayfinder"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-g3MPX-normal.webp?126024725",
+        "Alt Text": "Scaretiller"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-loXWQ-normal.webp?125174605",
+        "Alt Text": "Scute Swarm"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-dXMxX-normal.webp?126024738",
+        "Alt Text": "Skullwinder"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-jqMay-normal.webp?126024754",
+        "Alt Text": "Springbloom Druid"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-MxeXN-normal.webp?121835078",
+        "Alt Text": "Sun Titan"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-w2MzK-normal.webp?126024775",
+        "Alt Text": "Titania, Protector of Argoth"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-g3MeX-normal.webp?126024794",
+        "Alt Text": "Turntimber Sower"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-9mN34-normal.webp?125376244",
+        "Alt Text": "World Shaper"
+    }],
+    "Sorceries":[
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-xRM5n-normal.webp?126024606",
+        "Alt Text": "Cataclysmic Prospecting"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-5MN4Z-normal.webp?126024628",
+        "Alt Text": "Decimate"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-aQXjO-normal.webp?126024626",
+        "Alt Text": "Descend upon the Sinful"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-XdXlV-normal.webp?126024632",
+        "Alt Text": "Embrace the Unknown"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-43NwR-normal.webp?125748158",
+        "Alt Text": "Escape to the Wilds"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-KPeJ0-normal.webp?124262617",
+        "Alt Text": "Explore"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-ZOXvw-normal.webp?125748192",
+        "Alt Text": "Hour of Promise"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-5MNzP-normal.webp?126024693",
+        "Alt Text": "Magmatic Insight"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-bRXAn-normal.webp?126016430",
+        "Alt Text": "Map the Frontier"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-G4Nn2-normal.webp?126016483",
+        "Alt Text": "Requisition Raid"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-zbMq5-normal.webp?124620225",
+        "Alt Text": "Sevinne's Reclamation"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Q4XBe-normal.webp?126024781",
+        "Alt Text": "Thrilling Discovery"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-XdXmZ-normal.webp?126024790",
+        "Alt Text": "Vengeful Regrowth"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-pRMKd-normal.webp?126024807",
+        "Alt Text": "Winding Way"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-AWNGR-normal.webp?126024799",
+        "Alt Text": "Wreck and Rebuild"
+    }],
+    "Instants":[
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-6JNpw-normal.webp?126016265",
+        "Alt Text": "Bovine Intervention"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-yjMP1-normal.webp?126024645",
+        "Alt Text": "Electric Revelation"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-o8MAb-normal.webp?125748179",
+        "Alt Text": "Harrow"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-7vNOp-normal.webp?126024676",
+        "Alt Text": "Heaven // Earth"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-WaXdr-normal.webp?114463530",
+        "Alt Text": "Path to Exile"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-r8MdR-normal.webp?124062080",
+        "Alt Text": "Return of the Wildspeaker"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-J9N68-normal.webp?126024798",
+        "Alt Text": "Unholy Heat"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-43NvR-normal.webp?126024795",
+        "Alt Text": "Valorous Stance"
+    }],
+    "Artifacts":[
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-KPeG0-normal.webp?113793427",
+        "Alt Text": "Arcane Signet"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-BX9a5-normal.webp?111538147",
+        "Alt Text": "Chromatic Lantern"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-2z83X-normal.webp?126024712",
+        "Alt Text": "Perpetual Timepiece"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-6JNGq-normal.webp?105773365",
+        "Alt Text": "Sol Ring"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-8ONGQ-normal.webp?105773391",
+        "Alt Text": "Swiftfoot Boots"
+    }],
+    "Enchantments":[
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-3q8R1-normal.webp?126024599",
+        "Alt Text": "Bitter Reunion"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-9mNg7-normal.webp?126024618",
+        "Alt Text": "Crawling Sensation"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-xRMJy-normal.webp?126024691",
+        "Alt Text": "Marshal's Anthem"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-N9XdZ-normal.webp?126024759",
+        "Alt Text": "The Mending of Dominaria"
+    }],
+    "Lands":[
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-DjN7M-normal.webp?126016223",
+        "Alt Text": "Abraded Bluffs"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-KPeDb-normal.webp?126016264",
+        "Alt Text": "Bristling Backwoods"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-yjMoD-normal.webp?126024593",
+        "Alt Text": "Cactus Preserve"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-J9NR8-normal.webp?113793430",
+        "Alt Text": "Command Tower"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-BX9n8-normal.webp?126016300",
+        "Alt Text": "Conduit Pylons"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-naevx-normal.webp?126016295",
+        "Alt Text": "Creosote Heath"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-vrMy1-normal.webp?125748128",
+        "Alt Text": "Desert of the Fervent"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-43NrG-normal.webp?126024625",
+        "Alt Text": "Desert of the Indomitable"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-aQXyx-normal.webp?125748132",
+        "Alt Text": "Desert of the True"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-nae5x-normal.webp?126024638",
+        "Alt Text": "Dunes of the Dead"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-O9XWw-normal.webp?105773204",
+        "Alt Text": "Evolving Wilds"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-nae9x-normal.webp?107308971",
+        "Alt Text": "Forest"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-N9X4J-normal.webp?126024674",
+        "Alt Text": "Hashep Oasis"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-6JNbw-normal.webp?124062025",
+        "Alt Text": "Jungle Shrine"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-AWNGO-normal.webp?125748204",
+        "Alt Text": "Krosan Verge"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-O9X6K-normal.webp?126016423",
+        "Alt Text": "Mirage Mesa"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-g3M9w-normal.webp?105764743",
+        "Alt Text": "Mountain"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-XdX91-normal.webp?126024713",
+        "Alt Text": "Painted Bluffs"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-bRX4g-normal.webp?105764785",
+        "Alt Text": "Plains"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-V2XM3-normal.webp?126024723",
+        "Alt Text": "Ramunap Ruins"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-1v8eA-normal.webp?125748256",
+        "Alt Text": "Scattered Groves"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-5MNZp-normal.webp?126024735",
+        "Alt Text": "Scavenger Grounds"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Mxeve-normal.webp?126024742",
+        "Alt Text": "Shefet Dunes"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-vrMnp-normal.webp?125748257",
+        "Alt Text": "Sheltered Thicket"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-q4MwP-normal.webp?126024750",
+        "Alt Text": "Sunscorched Divide"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-zbMA4-normal.webp?125002060",
+        "Alt Text": "Terramorphic Expanse"
+    }
+]
+}

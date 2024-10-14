@@ -1,0 +1,345 @@
+{
+    "DeckName":"Creative Energy",
+
+    "Commander":[{
+        "Image Source": "https://assets.moxfield.net/cards/card-6J3y7-normal.webp?126010174",
+        "Alt Text": "Satya, Aetherflux Genius"
+    }],
+    "BackUp":[
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-KPrna-normal.webp?126010000",
+            "Alt Text": "Cayth, Famed Mechanist"
+        }
+    ],
+
+    "Creatures":[{
+        "Image Source": "https://assets.moxfield.net/cards/card-q4pNx-normal.webp?126009951",
+        "Alt Text": "Aethergeode Miner"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-R91bl-normal.webp?126009948",
+        "Alt Text": "Aethersquall Ancient"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-9mowg-normal.webp?126009954",
+        "Alt Text": "Aetherstorm Roc"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-pRpJd-normal.webp?126009960",
+        "Alt Text": "Aethertide Whale"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-8OvVl-normal.webp?125997967",
+        "Alt Text": "Amped Raptor"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-8O5ry-normal.webp?126009961",
+        "Alt Text": "Angel of Invention"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-01dr2-normal.webp?126009977",
+        "Alt Text": "Aurora Shifter"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-3q7jv-normal.webp?126009987",
+        "Alt Text": "Blaster Hulk"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-R915K-normal.webp?126010001",
+        "Alt Text": "Brudiclad, Telchor Engineer"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-o8pwJ-normal.webp?124806340",
+        "Alt Text": "Burnished Hart"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-5MVBd-normal.webp?126010012",
+        "Alt Text": "Combustible Gearhulk"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-2zmo1-normal.webp?125733555",
+        "Alt Text": "Goldspan Dragon"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-6J2V7-normal.webp?126010074",
+        "Alt Text": "Grenzo, Havoc Raiser"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Xd1AG-normal.webp?126010124",
+        "Alt Text": "Lightning Runner"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-3q71l-normal.webp?125733605",
+        "Alt Text": "Myr Battlesphere"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-N91lZ-normal.webp?126010145",
+        "Alt Text": "Overclocked Electromancer"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-loq0G-normal.webp?124605374",
+        "Alt Text": "Professional Face-Breaker"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-zbyQm-normal.webp?126010154",
+        "Alt Text": "Razorfield Ripper"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Pb3zR-normal.webp?125998297",
+        "Alt Text": "Roil Cartographer"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-8O5wy-normal.webp?126010160",
+        "Alt Text": "Salvation Colossus"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-BXMQV-normal.webp?126010192",
+        "Alt Text": "Silverquill Lecturer"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-43lMr-normal.webp?126010199",
+        "Alt Text": "Skyclave Apparition"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-6J2w7-normal.webp?106478784",
+        "Alt Text": "Solemn Simulacrum"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-zbyV8-normal.webp?126010186",
+        "Alt Text": "Sphinx of the Revelation"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-bRpJg-normal.webp?126010249",
+        "Alt Text": "Whirler Virtuoso"
+    }],
+    "Sorceries":[
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Xd15M-normal.webp?123193851",
+        "Alt Text": "Austere Command"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-g3pjw-normal.webp?126010016",
+        "Alt Text": "Confiscation Coup"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-G4e22-normal.webp?117225284",
+        "Alt Text": "Farewell"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-jqpx5-normal.webp?125998190",
+        "Alt Text": "Jolted Awake"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-6J26N-normal.webp?126010121",
+        "Alt Text": "Localized Destruction"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-loqeG-normal.webp?125733712",
+        "Alt Text": "Tezzeret's Gambit"
+    }],
+    "Instants":[
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-vrp48-normal.webp?125160095",
+        "Alt Text": "Akroma's Will"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-KP1BK-normal.webp?126010067",
+        "Alt Text": "Glimmer of Genius"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-zbyom-normal.webp?105759391",
+        "Alt Text": "Swords to Plowshares"
+    }],
+    "Artifacts":[
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Djdbl-normal.webp?126009949",
+        "Alt Text": "Aether Refinery"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-G4ew4-normal.webp?126009952",
+        "Alt Text": "Aethersphere Harvester"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-w2pR4-normal.webp?126009963",
+        "Alt Text": "Aetherworks Marvel"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-J91BB-normal.webp?113789504",
+        "Alt Text": "Arcane Signet"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Xd1nG-normal.webp?125997977",
+        "Alt Text": "Bespoke Battlewagon"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-w2pQm-normal.webp?125733461",
+        "Alt Text": "Bident of Thassa"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-ZO15b-normal.webp?126010007",
+        "Alt Text": "Coalition Relic"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-1vPjx-normal.webp?126010011",
+        "Alt Text": "Conversion Apparatus"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-jqpXg-normal.webp?125363322",
+        "Alt Text": "Coveted Jewel"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Q4NjA-normal.webp?126010031",
+        "Alt Text": "Decoction Module"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-O9gNm-normal.webp?126010066",
+        "Alt Text": "Filigree Racer"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-ZO1bP-normal.webp?126010075",
+        "Alt Text": "Gonti's Aether Heart"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-AWzjD-normal.webp?126010091",
+        "Alt Text": "Hourglass of the Lost"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Pb3Wl-normal.webp?125998169",
+        "Alt Text": "Izzet Generatorium"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-01dVj-normal.webp?125733610",
+        "Alt Text": "Midnight Clock"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-naprN-normal.webp?105759372",
+        "Alt Text": "Sol Ring"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Mx17X-normal.webp?125998349",
+        "Alt Text": "Solar Transformer"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Mx13X-normal.webp?126010206",
+        "Alt Text": "Stone Idol Generator"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Dj1Pl-normal.webp?124605431",
+        "Alt Text": "Talisman of Conviction"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-xRbQV-normal.webp?124605430",
+        "Alt Text": "Talisman of Creativity"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-AWzn5-normal.webp?126010216",
+        "Alt Text": "Talisman of Progress"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-xRXd9-normal.webp?125998413",
+        "Alt Text": "Unstable Amulet"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-jqprg-normal.webp?126010248",
+        "Alt Text": "Wayfarer's Bauble"
+    }],
+    "Enchantments":[
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-enpX8-normal.webp?126010058",
+        "Alt Text": "Era of Innovation"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Wa19l-normal.webp?126010103",
+        "Alt Text": "Legion Loyalty"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-KPxRo-normal.webp?125998308",
+        "Alt Text": "Scurry of Gremlins"
+    }],
+    "Lands":[
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-43lgr-normal.webp?125363248",
+        "Alt Text": "Adarkar Wastes"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-yjK81-normal.webp?126009953",
+        "Alt Text": "Aether Hub"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-r8pQV-normal.webp?124806316",
+        "Alt Text": "Azorius Chancery"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-enpgy-normal.webp?123401086",
+        "Alt Text": "Battlefield Forge"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-pRpQJ-normal.webp?125160133",
+        "Alt Text": "Castle Vantress"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-1vPRv-normal.webp?113789505",
+        "Alt Text": "Command Tower"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-o8pNJ-normal.webp?126010027",
+        "Alt Text": "Demolition Field"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-q4pQ2-normal.webp?125733557",
+        "Alt Text": "Frostboil Snarl"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-g3pa5-normal.webp?126010068",
+        "Alt Text": "Furycalm Snarl"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-yjXo4-normal.webp?105744101",
+        "Alt Text": "Island"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-vrpQ8-normal.webp?125363394",
+        "Alt Text": "Izzet Boilerworks"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-AWAaa-normal.webp?105744180",
+        "Alt Text": "Mountain"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-bRpM7-normal.webp?126010130",
+        "Alt Text": "Mystic Gate"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-2zmM1-normal.webp?126010134",
+        "Alt Text": "Mystic Monastery"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-na8nZ-normal.webp?105744230",
+        "Alt Text": "Plains"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-KP1oa-normal.webp?124605376",
+        "Alt Text": "Port Town"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-yjKQ0-normal.webp?123194022",
+        "Alt Text": "Prairie Stream"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Wa10b-normal.webp?125363483",
+        "Alt Text": "Shivan Reef"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-BXMJW-normal.webp?125160356",
+        "Alt Text": "Temple of Enlightenment"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-1vPDv-normal.webp?124249217",
+        "Alt Text": "Temple of Epiphany"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-O9gA4-normal.webp?125160367",
+        "Alt Text": "Temple of Triumph"
+    }
+]
+}

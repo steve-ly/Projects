@@ -1,0 +1,348 @@
+{
+    "DeckUp":"Riders of Rohan",
+    "Commander":[
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-2zMw4-normal.webp?125995103",
+        "Alt Text": "Éowyn, Shieldmaiden"
+    }],
+    "BackUp":[
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-xR4jP-normal.webp?125995011",
+        "Alt Text": "Aragorn, King of Gondor"
+    }],
+    "Creatures":[
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-KPyBd-normal.webp?125995021",
+        "Alt Text": "Archivist of Gondor"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-yj60N-normal.webp?125995030",
+        "Alt Text": "Bastion Protector"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-KPyld-normal.webp?125995028",
+        "Alt Text": "Beregond of the Guard"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-8Omr4-normal.webp?125995039",
+        "Alt Text": "Boromir, Gondor's Hope"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-lozDl-normal.webp?125995060",
+        "Alt Text": "Champions of Minas Tirith"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-6Jdp9-normal.webp?125995076",
+        "Alt Text": "Combat Celebrant"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-WaM8x-normal.webp?125995081",
+        "Alt Text": "Dearly Departed"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Pbnol-normal.webp?125995079",
+        "Alt Text": "Denethor, Stone Seer"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-G4zwo-normal.webp?125995107",
+        "Alt Text": "Éomer, King of Rohan"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-8OmMA-normal.webp?125987916",
+        "Alt Text": "Erkenbrand, Lord of Westfold"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-J9KBM-normal.webp?125995119",
+        "Alt Text": "Faramir, Steward of Gondor"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-9m7na-normal.webp?125995131",
+        "Alt Text": "Fiend Hunter"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-J9KVm-normal.webp?125717481",
+        "Alt Text": "Flamerush Rider"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-jqexp-normal.webp?125995133",
+        "Alt Text": "Frontier Warmonger"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-q425D-normal.webp?125717496",
+        "Alt Text": "Frontline Medic"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-dXjP8-normal.webp?125995170",
+        "Alt Text": "Gilraen, Dúnedain Protector"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-XdpBK-normal.webp?125995167",
+        "Alt Text": "Gimli of the Glittering Caves"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-bRjwn-normal.webp?125995189",
+        "Alt Text": "Grey Host Reinforcements"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-MxDaK-normal.webp?125995211",
+        "Alt Text": "Harsh Mentor"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-bRjy9-normal.webp?125995216",
+        "Alt Text": "Humble Defector"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-bRjJn-normal.webp?125995244",
+        "Alt Text": "Lossarnach Captain"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-q422J-normal.webp?125717634",
+        "Alt Text": "Palace Jailer"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-8Ow6w-normal.webp?125988261",
+        "Alt Text": "Prince Imrahil the Fair"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-loz0l-normal.webp?125995344",
+        "Alt Text": "Riders of Rohan"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-jqePl-normal.webp?125995365",
+        "Alt Text": "Selfless Squire"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-01W0v-normal.webp?125988445",
+        "Alt Text": "Théoden, King of Rohan"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-J9KV4-normal.webp?125995414",
+        "Alt Text": "Verge Rangers"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-BXz5v-normal.webp?125995415",
+        "Alt Text": "Village Bell-Ringer"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-BXzzj-normal.webp?125995429",
+        "Alt Text": "Weathered Wayfarer"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-vr603-normal.webp?125349048",
+        "Alt Text": "Zealous Conscripts"
+    }],
+    "Sorceries":[
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-WaM9D-normal.webp?125995051",
+        "Alt Text": "Call for Aid"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-1vDwm-normal.webp?125995089",
+        "Alt Text": "Earthquake"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-mP2vr-normal.webp?125995139",
+        "Alt Text": "Forth Eorlingas!"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-3qAAK-normal.webp?125995215",
+        "Alt Text": "Increasing Devotion"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-6Jddp-normal.webp?125995380",
+        "Alt Text": "Sunset Revelry"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-en3xQ-normal.webp?123178350",
+        "Alt Text": "Supreme Verdict"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-V2la5-normal.webp?125995388",
+        "Alt Text": "Taunt from the Rampart"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-01WWe-normal.webp?125995413",
+        "Alt Text": "Visions of Glory"
+    }],
+    "Instants":[
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-5MJlZ-normal.webp?125988144",
+        "Alt Text": "Lost to Legend"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-8Omml-normal.webp?114436200",
+        "Alt Text": "Path to Exile"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-WaMry-normal.webp?105740852",
+        "Alt Text": "Swords to Plowshares"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-dXjDG-normal.webp?125995422",
+        "Alt Text": "Unbreakable Formation"
+    }],
+    "Artifacts":[
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-jqeDp-normal.webp?113785837",
+        "Alt Text": "Arcane Signet"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-3qAwN-normal.webp?125348674",
+        "Alt Text": "Commander's Sphere"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-vr6Qw-normal.webp?125995072",
+        "Alt Text": "Crown of Gondor"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-BXzq8-normal.webp?124792555",
+        "Alt Text": "Door of Destinies"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-ZOjAm-normal.webp?125995203",
+        "Alt Text": "Heirloom Blade"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Pbn08-normal.webp?123749525",
+        "Alt Text": "Herald's Horn"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-6Jw1p-normal.webp?105740811",
+        "Alt Text": "Sol Ring"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-DjeJN-normal.webp?124589817",
+        "Alt Text": "Talisman of Conviction"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-AWwxA-normal.webp?125995386",
+        "Alt Text": "Talisman of Progress"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-J9K44-normal.webp?125144884",
+        "Alt Text": "Thought Vessel"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-BXzr8-normal.webp?125717781",
+        "Alt Text": "Vanquisher's Banner"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-pRam4-normal.webp?125995435",
+        "Alt Text": "Wayfarer's Bauble"
+    }],
+    "Enchantments":[
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-q4Qmy-normal.webp?125995037",
+        "Alt Text": "Banishing Light"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Q4JaB-normal.webp?125995075",
+        "Alt Text": "Court of Ire"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-yj684-normal.webp?125995112",
+        "Alt Text": "Fealty to the Realm"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-vr66a-normal.webp?125995254",
+        "Alt Text": "Marshal's Anthem"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-7vPBj-normal.webp?125995296",
+        "Alt Text": "Oath of Eorl"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-na6Jv-normal.webp?125144833",
+        "Alt Text": "Shared Animosity"
+    }],
+    "Lands":[
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-KPy2z-normal.webp?123387026",
+        "Alt Text": "Battlefield Forge"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-xR40Q-normal.webp?125348664",
+        "Alt Text": "Clifftop Retreat"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-g32yx-normal.webp?113785840",
+        "Alt Text": "Command Tower"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-3q14J-normal.webp?105740487",
+        "Alt Text": "Evolving Wilds"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-bRjVP-normal.webp?105740473",
+        "Alt Text": "Exotic Orchard"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-7v2OB-normal.webp?124589557",
+        "Alt Text": "Field of Ruin"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-dXjDr-normal.webp?125995144",
+        "Alt Text": "Furycalm Snarl"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-pRar4-normal.webp?125995199",
+        "Alt Text": "Glacial Fortress"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Dje9W-normal.webp?105732034",
+        "Alt Text": "Island"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-dXjm3-normal.webp?105732174",
+        "Alt Text": "Mountain"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-xR4yQ-normal.webp?109275683",
+        "Alt Text": "Path of Ancestry"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-J9K8g-normal.webp?105732257",
+        "Alt Text": "Plains"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-KPy2m-normal.webp?124589745",
+        "Alt Text": "Port Town"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-7vPpb-normal.webp?123178262",
+        "Alt Text": "Prairie Stream"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-dXjrr-normal.webp?105740784",
+        "Alt Text": "Rogue's Passage"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-o8v2A-normal.webp?125144831",
+        "Alt Text": "Secluded Courtyard"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-8OmA7-normal.webp?112238294",
+        "Alt Text": "Sulfur Falls"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-na6Vp-normal.webp?125144864",
+        "Alt Text": "Terramorphic Expanse"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-w26K2-normal.webp?125717753",
+        "Alt Text": "Throne of the High City"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-3qApR-normal.webp?125349022",
+        "Alt Text": "Tranquil Cove"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-8OmnO-normal.webp?125995434",
+        "Alt Text": "Wind-Scarred Crag"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-zb63a-normal.webp?125349040",
+        "Alt Text": "Windbrisk Heights"
+    }
+]
+}

@@ -1,0 +1,411 @@
+{
+    "DeckName":"Eldrazi Incursion",
+
+    "Commander":[{
+        "Image Source": "https://assets.moxfield.net/cards/card-r8XeV-normal.webp?126010234",
+        "Alt Text": "Ulalek, Fused Atrocity"
+    }],
+    "BackUp":[    {
+        "Image Source": "https://assets.moxfield.net/cards/card-O96m4-normal.webp?126009983",
+        "Alt Text": "Azlask, the Swelling Scourge"
+    }],
+    "Planeswalkers":[{
+        "Image Source": "https://assets.moxfield.net/cards/card-ZO1pB-normal.webp?126010235",
+        "Alt Text": "Ugin, the Ineffable"
+    }],
+    "Creatures":[
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-43lD6-normal.webp?126009958",
+        "Alt Text": "Angelic Aberration"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-dXpBx-normal.webp?125160109",
+        "Alt Text": "Artisan of Kozilek"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-vrp73-normal.webp?126009992",
+        "Alt Text": "Benthic Anomaly"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-aQpxd-normal.webp?126009991",
+        "Alt Text": "Bismuth Mindrender"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Mx1p6-normal.webp?126009994",
+        "Alt Text": "Chittering Dispatcher"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-o8pMy-normal.webp?126010023",
+        "Alt Text": "Deepfathom Skulker"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-3qooq-normal.webp?126010040",
+        "Alt Text": "Drowner of Hope"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-43lNg-normal.webp?126010044",
+        "Alt Text": "Elder Deep-Fiend"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-vrpMV-normal.webp?126010043",
+        "Alt Text": "Eldrazi Displacer"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-O9gX0-normal.webp?126010056",
+        "Alt Text": "Endbringer"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-jq3ZR-normal.webp?125998139",
+        "Alt Text": "Glaring Fleshraker"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-J92aN-normal.webp?126010095",
+        "Alt Text": "Hideous Taskmaster"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-6J2mo-normal.webp?126010086",
+        "Alt Text": "Inversion Behemoth"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Dj1Nz-normal.webp?126010114",
+        "Alt Text": "Morophon, the Boundless"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-N91vQ-normal.webp?126010131",
+        "Alt Text": "Mutated Cultist"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Pb3d8-normal.webp?126010129",
+        "Alt Text": "Oblivion Sower"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Q4Nmy-normal.webp?125733666",
+        "Alt Text": "Sifter of Skulls"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-01d65-normal.webp?126010190",
+        "Alt Text": "Sire of Stagnation"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-g3pyP-normal.webp?125998347",
+        "Alt Text": "Snapping Voidcraw"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-3q7JR-normal.webp?126010187",
+        "Alt Text": "Spawnbed Protector"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-O9gjm-normal.webp?125998401",
+        "Alt Text": "Titans' Vanguard"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-zbyNa-normal.webp?126010226",
+        "Alt Text": "Twins of Discord"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-pRpZp-normal.webp?125733721",
+        "Alt Text": "Ulamog's Crusher"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-8O5JO-normal.webp?126010227",
+        "Alt Text": "Ulamog's Dreadsire"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-q4p9r-normal.webp?126010228",
+        "Alt Text": "Ulamog's Nullifier"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Xd1oA-normal.webp?126010242",
+        "Alt Text": "Vile Redeemer"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-6J30Q-normal.webp?125998421",
+        "Alt Text": "Wastescape Battlemage"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-napw5-normal.webp?126010257",
+        "Alt Text": "World Breaker"
+    }],
+    "Sorceries":[
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Pb1Pm-normal.webp?125733433",
+        "Alt Text": "All Is Dust"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-KP1xm-normal.webp?126009957",
+        "Alt Text": "Ancient Stirrings"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-3q7v3-normal.webp?126010167",
+        "Alt Text": "Rishkar's Expertise"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-01dx3-normal.webp?126010178",
+        "Alt Text": "Selective Obliteration"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Wa155-normal.webp?126010189",
+        "Alt Text": "Skittering Invasion"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-G4eox-normal.webp?126010230",
+        "Alt Text": "Ugin's Insight"
+    }],
+    "Instants":[
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-mP4z0-normal.webp?126010025",
+        "Alt Text": "Crib Swap"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-o8pxA-normal.webp?126010039",
+        "Alt Text": "Eldrazi Confluence"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-jqpbl-normal.webp?126010057",
+        "Alt Text": "Eldritch Immunity"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-KP14m-normal.webp?126010105",
+        "Alt Text": "Kozilek's Return"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-2zm04-normal.webp?124047626",
+        "Alt Text": "Return of the Wildspeaker"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-aQpeK-normal.webp?126010208",
+        "Alt Text": "Suffer the Past"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-enpBm-normal.webp?126010241",
+        "Alt Text": "Warping Wail"
+    }],
+    "Artifacts":[
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-J91BB-normal.webp?113789504",
+        "Alt Text": "Arcane Signet"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-8O5Nw-normal.webp?126010041",
+        "Alt Text": "Dreamstone Hedron"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-bRpB9-normal.webp?126010036",
+        "Alt Text": "Eldrazi Monument"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-zbyM6-normal.webp?125363345",
+        "Alt Text": "Everflowing Chalice"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Q4NX5-normal.webp?126010071",
+        "Alt Text": "Forsaken Monument"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-g3pM6-normal.webp?124605311",
+        "Alt Text": "Hedron Archive"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-bRpXa-normal.webp?123765210",
+        "Alt Text": "Herald's Horn"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-xRbZ9-normal.webp?125733566",
+        "Alt Text": "Idol of Oblivion"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Wa1XZ-normal.webp?125160273",
+        "Alt Text": "Mystic Forge"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-naprN-normal.webp?105759372",
+        "Alt Text": "Sol Ring"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-BXMlP-normal.webp?126010201",
+        "Alt Text": "Talisman of Curiosity"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-O9ge0-normal.webp?114724654",
+        "Alt Text": "Talisman of Dominance"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-w2p99-normal.webp?125733693",
+        "Alt Text": "Talisman of Impulse"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-R91ev-normal.webp?126010215",
+        "Alt Text": "Talisman of Resilience"
+    }],
+    "Enchantments":[
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-yjKZN-normal.webp?126009973",
+        "Alt Text": "Awakening Zone"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-3q783-normal.webp?126010038",
+        "Alt Text": "Eldrazi Conscription"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Mx1ew-normal.webp?125160199",
+        "Alt Text": "Garruk's Uprising"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-w2pM9-normal.webp?126010098",
+        "Alt Text": "Imprisoned in the Moon"
+    }],
+    "Lands":[
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-43lgr-normal.webp?125363248",
+        "Alt Text": "Adarkar Wastes"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-7vrNd-normal.webp?126009976",
+        "Alt Text": "Ash Barrens"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-enpgy-normal.webp?123401086",
+        "Alt Text": "Battlefield Forge"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-V21XB-normal.webp?125733478",
+        "Alt Text": "Bonders' Enclave"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-5MVx2-normal.webp?125363291",
+        "Alt Text": "Brushland"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-o8pjA-normal.webp?126009996",
+        "Alt Text": "Cascading Cataracts"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-jqpVl-normal.webp?125733480",
+        "Alt Text": "Caves of Koilos"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-1vPRv-normal.webp?113789505",
+        "Alt Text": "Command Tower"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-r8pNb-normal.webp?126010004",
+        "Alt Text": "Corrupted Crossroads"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-AWz5A-normal.webp?126010037",
+        "Alt Text": "Eldrazi Temple"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-O9gdn-normal.webp?105759173",
+        "Alt Text": "Exotic Orchard"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-R9vqz-normal.webp?105744052",
+        "Alt Text": "Forest"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-8Ov34-normal.webp?105744108",
+        "Alt Text": "Island"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-loqrN-normal.webp?125160240",
+        "Alt Text": "Karplusan Forest"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-V21Oq-normal.webp?122252978",
+        "Alt Text": "Llanowar Wastes"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-pRXgB-normal.webp?105744177",
+        "Alt Text": "Mountain"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-dXpMx-normal.webp?125363435",
+        "Alt Text": "Opal Palace"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Mx1n6-normal.webp?109289956",
+        "Alt Text": "Path of Ancestry"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-bRlqn-normal.webp?105744227",
+        "Alt Text": "Plains"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-V21eB-normal.webp?125160297",
+        "Alt Text": "Reliquary Tower"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-6J2KQ-normal.webp?126010164",
+        "Alt Text": "Ruins of Oran-Rief"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-jqp9R-normal.webp?125160322",
+        "Alt Text": "Secluded Courtyard"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Wa10b-normal.webp?125363483",
+        "Alt Text": "Shivan Reef"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-zby96-normal.webp?125733669",
+        "Alt Text": "Shrine of the Forsaken Gods"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-9moPA-normal.webp?126010184",
+        "Alt Text": "Spawning Bed"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-7vrnZ-normal.webp?125733684",
+        "Alt Text": "Sulfurous Springs"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Pb3ql-normal.webp?105744358",
+        "Alt Text": "Swamp"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Q4Ne5-normal.webp?125733701",
+        "Alt Text": "Tectonic Edge"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-enpeR-normal.webp?126010219",
+        "Alt Text": "Temple of Malady"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Mx14w-normal.webp?119465123",
+        "Alt Text": "Temple of Silence"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Xd1eo-normal.webp?126010222",
+        "Alt Text": "Tendo Ice Bridge"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-bRpea-normal.webp?125733708",
+        "Alt Text": "Tomb of the Spirit Dragon"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-o8pgj-normal.webp?125998391",
+        "Alt Text": "Tranquil Landscape"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-jqpyB-normal.webp?125998410",
+        "Alt Text": "Twisted Landscape"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-xRb9J-normal.webp?123194117",
+        "Alt Text": "Unclaimed Territory"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-9modA-normal.webp?126010251",
+        "Alt Text": "Underground River"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-1vPKB-normal.webp?105759450",
+        "Alt Text": "Wastes"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-O9gvn-normal.webp?125733739",
+        "Alt Text": "Yavimaya Coast"
+    }
+]
+}

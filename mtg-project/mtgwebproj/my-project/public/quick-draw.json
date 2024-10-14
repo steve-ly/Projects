@@ -1,0 +1,313 @@
+{
+    "DeckName":"Quick Draw",
+    "Commander":[
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-xRM4g-normal.webp?126024755",
+        "Alt Text": "Stella Lee, Wild Card"
+    }],
+    "BackUp":[
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-9mNl0-normal.webp?126024653",
+            "Alt Text": "Eris, Roar of the Storm"
+        }
+    ],
+    "Creature":[
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-7vNlN-normal.webp?126024589",
+        "Alt Text": "Archmage Emeritus"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-DjNVM-normal.webp?126024601",
+        "Alt Text": "Bloodthirsty Adversary"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-enR4v-normal.webp?126024616",
+        "Alt Text": "Crackling Spellslinger"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-loXl6-normal.webp?125748146",
+        "Alt Text": "Electrostatic Field"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-PbXGq-normal.webp?126024659",
+        "Alt Text": "Goblin Electromancer"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-KPeGb-normal.webp?124062023",
+        "Alt Text": "Guttersnipe"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-bRXvJ-normal.webp?126024677",
+        "Alt Text": "Haughty Djinn"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-2z8vK-normal.webp?126024686",
+        "Alt Text": "Kaza, Roil Chaser"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-g3M8v-normal.webp?126024706",
+        "Alt Text": "Murmuring Mystic"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-bRX06-normal.webp?124818987",
+        "Alt Text": "Niv-Mizzet, Parun"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-KPeb0-normal.webp?126024699",
+        "Alt Text": "Octavia, Living Thesis"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-naeXB-normal.webp?126024722",
+        "Alt Text": "Pteramander"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-MxePB-normal.webp?125748268",
+        "Alt Text": "Storm-Kiln Artist"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-q4MXz-normal.webp?126024762",
+        "Alt Text": "Talrand, Sky Summoner"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-DjNqM-normal.webp?125748282",
+        "Alt Text": "Third Path Iconoclast"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-zbM7X-normal.webp?126024777",
+        "Alt Text": "Thunderclap Drake"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-V2Xjj-normal.webp?125748303",
+        "Alt Text": "Veyran, Voice of Duality"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-pRMjO-normal.webp?125174669",
+        "Alt Text": "Young Pyromancer"
+    }],
+    "Sorceries":[
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-naeM3-normal.webp?126024588",
+        "Alt Text": "Baral's Expertise"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-8ONVo-normal.webp?124620072",
+        "Alt Text": "Curse of the Swine"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-1v8ne-normal.webp?125376061",
+        "Alt Text": "Deep Analysis"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-Q4XDD-normal.webp?126024636",
+        "Alt Text": "Elemental Eruption"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-DjNG5-normal.webp?126024633",
+        "Alt Text": "Epic Experiment"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-nae5B-normal.webp?125376095",
+        "Alt Text": "Expressive Iteration"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-WaX61-normal.webp?110992121",
+        "Alt Text": "Faithless Looting"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-yjMxr-normal.webp?126024666",
+        "Alt Text": "Finale of Promise"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-pRMbw-normal.webp?125376108",
+        "Alt Text": "Finale of Revelation"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-G4NB5-normal.webp?126024695",
+        "Alt Text": "Lock and Load"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-aQXa9-normal.webp?125376156",
+        "Alt Text": "Mizzix's Mastery"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-WaX71-normal.webp?125174591",
+        "Alt Text": "Ponder"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-AWNBO-normal.webp?123414104",
+        "Alt Text": "Preordain"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-BX90M-normal.webp?126024720",
+        "Alt Text": "Pyretic Charge"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-018Qv-normal.webp?126024734",
+        "Alt Text": "Rousing Refrain"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-7vN5l-normal.webp?125376190",
+        "Alt Text": "Serum Visions"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-5MN2Z-normal.webp?125748285",
+        "Alt Text": "Tezzeret's Gambit"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-loXa9-normal.webp?125174648",
+        "Alt Text": "Treasure Cruise"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-xRMBg-normal.webp?105773421",
+        "Alt Text": "Vandalblast"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-R9gll-normal.webp?126024801",
+        "Alt Text": "Volcanic Torrent"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-BX9wR-normal.webp?111538354",
+        "Alt Text": "Windfall"
+    }],
+    "Instants":[
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-8ON2o-normal.webp?125376010",
+        "Alt Text": "Arcane Denial"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-w2MVK-normal.webp?125376025",
+        "Alt Text": "Big Score"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-AWNmR-normal.webp?125376036",
+        "Alt Text": "Chaos Warp"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-J9NMg-normal.webp?126024627",
+        "Alt Text": "Dig Through Time"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-dXMNa-normal.webp?126024662",
+        "Alt Text": "Galvanic Iteration"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-dXM0z-normal.webp?125748223",
+        "Alt Text": "Opt"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-aQXZO-normal.webp?124620184",
+        "Alt Text": "Pongify"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-J9NeA-normal.webp?126024721",
+        "Alt Text": "Radical Idea"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-6JN8q-normal.webp?126024783",
+        "Alt Text": "Think Twice"
+    }],
+    "Artifacts":[
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-KPeG0-normal.webp?113793427",
+        "Alt Text": "Arcane Signet"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-bRXxX-normal.webp?125376053",
+        "Alt Text": "Cursed Mirror"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-ZOXlV-normal.webp?126024655",
+        "Alt Text": "Forger's Foundry"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-MxeKe-normal.webp?124620157",
+        "Alt Text": "Izzet Signet"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-R9gx2-normal.webp?126024679",
+        "Alt Text": "Leyline Dowser"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-mPXNB-normal.webp?125748214",
+        "Alt Text": "Midnight Clock"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-vrMJZ-normal.webp?126024753",
+        "Alt Text": "Smoldering Stagecoach"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-6JNGq-normal.webp?105773365",
+        "Alt Text": "Sol Ring"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-O9X7z-normal.webp?125748296",
+        "Alt Text": "Winged Boots"
+    }],
+    "Enchantments":[
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-q4M63-normal.webp?125748082",
+        "Alt Text": "Arcane Bombardment"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-xRMJG-normal.webp?125174584",
+        "Alt Text": "Propaganda"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-loXQQ-normal.webp?126024745",
+        "Alt Text": "Shark Typhoon"
+    }],
+    "Lands":[
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-mPXrq-normal.webp?126024607",
+        "Alt Text": "Cascade Bluffs"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-J9NR8-normal.webp?113793430",
+        "Alt Text": "Command Tower"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-r8MRn-normal.webp?105773196",
+        "Alt Text": "Exotic Orchard"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-naeGA-normal.webp?126024647",
+        "Alt Text": "Ferrous Lake"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-J9NxB-normal.webp?125748166",
+        "Alt Text": "Frostboil Snarl"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-xRMDg-normal.webp?105764700",
+        "Alt Text": "Island"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-V2X58-normal.webp?125376126",
+        "Alt Text": "Izzet Boilerworks"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-g3M9w-normal.webp?105764743",
+        "Alt Text": "Mountain"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-R9gAR-normal.webp?125002056",
+        "Alt Text": "Reliquary Tower"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-G4NXB-normal.webp?125376195",
+        "Alt Text": "Shivan Reef"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-O9X8w-normal.webp?112263386",
+        "Alt Text": "Sulfur Falls"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-1v80x-normal.webp?124262733",
+        "Alt Text": "Temple of Epiphany"
+    },
+    {
+        "Image Source": "https://assets.moxfield.net/cards/card-enRAP-normal.webp?105773380",
+        "Alt Text": "Temple of the False God"
+    }
+]
+}
