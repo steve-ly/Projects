@@ -1,354 +1,382 @@
 {
-    "DeckName":"Squirreled Away",
-    "Commander":[
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-J9JOR-normal.webp?126019348",
-        "Alt Text": "Hazel of the Rootbloom"
-    }],
-    "BackUp":[
+    "DeckName": "Squirreled Away",
+    "Commander": [
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-J9JOR-normal.webp?126019348",
+            "Alt Text": "Hazel of the Rootbloom"
+        }
+    ],
+    "BackUp": [
         {
             "Image Source": "https://assets.moxfield.net/cards/card-R9rrq-normal.webp?126019483",
             "Alt Text": "The Odd Acorn Gang"
         }
     ],
-    "Planeswalkers":[
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-xRGvR-normal.webp?126019341",
-        "Alt Text": "Garruk, Cursed Huntsman"
-    }],
-    "Creatures":[
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-PbVW8-normal.webp?124257782",
-        "Alt Text": "Academy Manufactor"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-r8GDb-normal.webp?126019286",
-        "Alt Text": "Arasta of the Endless Web"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-BXbNv-normal.webp?126019295",
-        "Alt Text": "Beledros Witherbloom"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-3qNz3-normal.webp?126019311",
-        "Alt Text": "Chatterfang, Squirrel General"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-KPdqm-normal.webp?126019308",
-        "Alt Text": "Chittering Witch"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-dXGqG-normal.webp?125742715",
-        "Alt Text": "Deep Forest Hermit"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-vrG23-normal.webp?126019335",
-        "Alt Text": "End-Raze Forerunners"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-43a56-normal.webp?126019344",
-        "Alt Text": "Gilded Goose"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-Wa3ZZ-normal.webp?126019354",
-        "Alt Text": "Haywire Mite"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-ZO447-normal.webp?126019366",
-        "Alt Text": "Hazel's Brewmaster"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-1vayx-normal.webp?125734561",
-        "Alt Text": "Honored Dreyleader"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-q4GGJ-normal.webp?126019361",
-        "Alt Text": "Insatiable Frugivore"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-g3GGP-normal.webp?126019401",
-        "Alt Text": "Moonstone Eulogist"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-1vanz-normal.webp?125371490",
-        "Alt Text": "Morbid Opportunist"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-enGvR-normal.webp?125742801",
-        "Alt Text": "Nadier's Nightblade"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-w2Gx9-normal.webp?126019415",
-        "Alt Text": "Nested Shambler"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-g3G86-normal.webp?125371501",
-        "Alt Text": "Ogre Slumlord"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-KPdQN-normal.webp?126019425",
-        "Alt Text": "Plaguecrafter"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-xRGAJ-normal.webp?125742811",
-        "Alt Text": "Poison-Tip Archer"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-AW9OJ-normal.webp?126019426",
-        "Alt Text": "Prosperous Innkeeper"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-PbVxm-normal.webp?126019439",
-        "Alt Text": "Ravenous Squirrel"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-KPddg-normal.webp?126019441",
-        "Alt Text": "Scurry of Squirrels"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-7vaGB-normal.webp?126019458",
-        "Alt Text": "Skyfisher Spider"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-J9Jn5-normal.webp?126019466",
-        "Alt Text": "Squirrel Sovereign"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-aQGgK-normal.webp?126019497",
-        "Alt Text": "Tireless Provisioner"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-KPdbN-normal.webp?125742902",
-        "Alt Text": "Toski, Bearer of Secrets"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-naqgR-normal.webp?126019511",
-        "Alt Text": "Woe Strider"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-V26jl-normal.webp?125742908",
-        "Alt Text": "Zulaport Cutthroat"
-    }],
-    "Sorceries":[
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-J9JZp-normal.webp?125742700",
-        "Alt Text": "Casualties of War"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-bRGq9-normal.webp?126019312",
-        "Alt Text": "Chatterstorm"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-PbVqR-normal.webp?125371418",
-        "Alt Text": "Decree of Pain"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-6Ja5p-normal.webp?126019387",
-        "Alt Text": "Maelstrom Pulse"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-G4xxQ-normal.webp?126019446",
-        "Alt Text": "Rootcast Apprenticeship"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-DjyqW-normal.webp?125742839",
-        "Alt Text": "Shamanic Revelation"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-bRGG0-normal.webp?126019472",
-        "Alt Text": "Swarmyard Massacre"
-    }],
-    "Instants":[
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-w2GmQ-normal.webp?125734462",
-        "Alt Text": "Cache Grab"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-3qNnR-normal.webp?126019322",
-        "Alt Text": "Deadly Dispute"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-naqM5-normal.webp?125742809",
-        "Alt Text": "Plumb the Forbidden"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-dXG8x-normal.webp?126019424",
-        "Alt Text": "Putrefy"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-PbVRp-normal.webp?126019442",
-        "Alt Text": "Saw in Half"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-Wa33y-normal.webp?124056886",
-        "Alt Text": "Second Harvest"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-vrG8Z-normal.webp?126019478",
-        "Alt Text": "Tear Asunder"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-Xd0GZ-normal.webp?126019503",
-        "Alt Text": "Windgrace's Judgment"
-    }],
-    "Artifacts":[
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-3qNNK-normal.webp?113792011",
-        "Alt Text": "Arcane Signet"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-g3Gbr-normal.webp?126019310",
-        "Alt Text": "Chitterspitter"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-yjGqN-normal.webp?125169182",
-        "Alt Text": "Golgari Signet"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-dXGZG-normal.webp?125742761",
-        "Alt Text": "Idol of Oblivion"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-zbGJ6-normal.webp?126019388",
-        "Alt Text": "Maskwood Nexus"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-G4xQx-normal.webp?107505283",
-        "Alt Text": "Skullclamp"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-naqly-normal.webp?107505281",
-        "Alt Text": "Sol Ring"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-yjGGP-normal.webp?126019473",
-        "Alt Text": "Sword of the Squeak"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-9mqg0-normal.webp?126019477",
-        "Alt Text": "Talisman of Resilience"
-    }],
-    "Enchantments":[
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-1vaVB-normal.webp?120745342",
-        "Alt Text": "Bastion of Remembrance"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-DjyR9-normal.webp?125742679",
-        "Alt Text": "Beastmaster Ascension"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-zbGja-normal.webp?125742695",
-        "Alt Text": "Binding the Old Gods"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-pRGGq-normal.webp?126019353",
-        "Alt Text": "Gourmand's Talent"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-BXb4P-normal.webp?125169238",
-        "Alt Text": "Moldervine Reclamation"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-Q42A5-normal.webp?125742850",
-        "Alt Text": "Squirrel Nest"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-1vamz-normal.webp?126019509",
-        "Alt Text": "Wolfwillow Haven"
-    }],
-    "Lands":[
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-aQGqd-normal.webp?126019284",
-        "Alt Text": "Barren Moor"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-G4xqZ-normal.webp?107504992",
-        "Alt Text": "Bojuka Bog"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-8Oaal-normal.webp?113792019",
-        "Alt Text": "Command Tower"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-3qNgR-normal.webp?107505071",
-        "Alt Text": "Evolving Wilds"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-MxmRV-normal.webp?107505064",
-        "Alt Text": "Exotic Orchard"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-o8G9J-normal.webp?107498180",
-        "Alt Text": "Forest"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-Wa3Z5-normal.webp?126019338",
-        "Alt Text": "Golgari Rot Farm"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-q4Gq5-normal.webp?126019350",
-        "Alt Text": "Grim Backwoods"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-DjyBz-normal.webp?125371452",
-        "Alt Text": "Haunted Mire"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-J9JQR-normal.webp?125742773",
-        "Alt Text": "Jungle Hollow"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-01aA5-normal.webp?122261620",
-        "Alt Text": "Llanowar Wastes"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-Xd0Po-normal.webp?126019416",
-        "Alt Text": "Necroblossom Snarl"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-q4GXr-normal.webp?124814283",
-        "Alt Text": "Oran-Rief, the Vastwood"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-R9rDv-normal.webp?109297618",
-        "Alt Text": "Path of Ancestry"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-N97jg-normal.webp?107498396",
-        "Alt Text": "Swamp"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-loGmj-normal.webp?126019471",
-        "Alt Text": "Swarmyard"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-PbVl9-normal.webp?126019476",
-        "Alt Text": "Tainted Wood"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-6JaGO-normal.webp?126019489",
-        "Alt Text": "Temple of Malady"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-V26Rx-normal.webp?125000228",
-        "Alt Text": "Terramorphic Expanse"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-1va9a-normal.webp?125371584",
-        "Alt Text": "Tranquil Thicket"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-BXbGM-normal.webp?126019507",
-        "Alt Text": "Twilight Mire"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-enGJv-normal.webp?126019506",
-        "Alt Text": "Viridescent Bog"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-loGWe-normal.webp?124615190",
-        "Alt Text": "Woodland Cemetery"
-    }
-]
+    "Planeswalkers": [
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-xRGvR-normal.webp?126019341",
+            "Alt Text": "Garruk, Cursed Huntsman"
+        }
+    ],
+    "Creatures": [
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-PbVW8-normal.webp?124257782",
+            "Alt Text": "Academy Manufactor"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-r8GDb-normal.webp?126019286",
+            "Alt Text": "Arasta of the Endless Web"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-BXbNv-normal.webp?126019295",
+            "Alt Text": "Beledros Witherbloom"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-3qNz3-normal.webp?126019311",
+            "Alt Text": "Chatterfang, Squirrel General"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-KPdqm-normal.webp?126019308",
+            "Alt Text": "Chittering Witch"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-dXGqG-normal.webp?125742715",
+            "Alt Text": "Deep Forest Hermit"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-vrG23-normal.webp?126019335",
+            "Alt Text": "End-Raze Forerunners"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-43a56-normal.webp?126019344",
+            "Alt Text": "Gilded Goose"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-Wa3ZZ-normal.webp?126019354",
+            "Alt Text": "Haywire Mite"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-ZO447-normal.webp?126019366",
+            "Alt Text": "Hazel's Brewmaster"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-1vayx-normal.webp?125734561",
+            "Alt Text": "Honored Dreyleader"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-q4GGJ-normal.webp?126019361",
+            "Alt Text": "Insatiable Frugivore"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-g3GGP-normal.webp?126019401",
+            "Alt Text": "Moonstone Eulogist"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-1vanz-normal.webp?125371490",
+            "Alt Text": "Morbid Opportunist"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-enGvR-normal.webp?125742801",
+            "Alt Text": "Nadier's Nightblade"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-w2Gx9-normal.webp?126019415",
+            "Alt Text": "Nested Shambler"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-g3G86-normal.webp?125371501",
+            "Alt Text": "Ogre Slumlord"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-KPdQN-normal.webp?126019425",
+            "Alt Text": "Plaguecrafter"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-xRGAJ-normal.webp?125742811",
+            "Alt Text": "Poison-Tip Archer"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-AW9OJ-normal.webp?126019426",
+            "Alt Text": "Prosperous Innkeeper"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-PbVxm-normal.webp?126019439",
+            "Alt Text": "Ravenous Squirrel"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-KPddg-normal.webp?126019441",
+            "Alt Text": "Scurry of Squirrels"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-7vaGB-normal.webp?126019458",
+            "Alt Text": "Skyfisher Spider"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-J9Jn5-normal.webp?126019466",
+            "Alt Text": "Squirrel Sovereign"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-aQGgK-normal.webp?126019497",
+            "Alt Text": "Tireless Provisioner"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-KPdbN-normal.webp?125742902",
+            "Alt Text": "Toski, Bearer of Secrets"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-naqgR-normal.webp?126019511",
+            "Alt Text": "Woe Strider"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-V26jl-normal.webp?125742908",
+            "Alt Text": "Zulaport Cutthroat"
+        }
+    ],
+    "Sorceries": [
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-J9JZp-normal.webp?125742700",
+            "Alt Text": "Casualties of War"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-bRGq9-normal.webp?126019312",
+            "Alt Text": "Chatterstorm"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-PbVqR-normal.webp?125371418",
+            "Alt Text": "Decree of Pain"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-6Ja5p-normal.webp?126019387",
+            "Alt Text": "Maelstrom Pulse"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-G4xxQ-normal.webp?126019446",
+            "Alt Text": "Rootcast Apprenticeship"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-DjyqW-normal.webp?125742839",
+            "Alt Text": "Shamanic Revelation"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-bRGG0-normal.webp?126019472",
+            "Alt Text": "Swarmyard Massacre"
+        }
+    ],
+    "Instants": [
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-w2GmQ-normal.webp?125734462",
+            "Alt Text": "Cache Grab"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-3qNnR-normal.webp?126019322",
+            "Alt Text": "Deadly Dispute"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-naqM5-normal.webp?125742809",
+            "Alt Text": "Plumb the Forbidden"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-dXG8x-normal.webp?126019424",
+            "Alt Text": "Putrefy"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-PbVRp-normal.webp?126019442",
+            "Alt Text": "Saw in Half"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-Wa33y-normal.webp?124056886",
+            "Alt Text": "Second Harvest"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-vrG8Z-normal.webp?126019478",
+            "Alt Text": "Tear Asunder"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-Xd0GZ-normal.webp?126019503",
+            "Alt Text": "Windgrace's Judgment"
+        }
+    ],
+    "Artifacts": [
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-3qNNK-normal.webp?113792011",
+            "Alt Text": "Arcane Signet"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-g3Gbr-normal.webp?126019310",
+            "Alt Text": "Chitterspitter"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-yjGqN-normal.webp?125169182",
+            "Alt Text": "Golgari Signet"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-dXGZG-normal.webp?125742761",
+            "Alt Text": "Idol of Oblivion"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-zbGJ6-normal.webp?126019388",
+            "Alt Text": "Maskwood Nexus"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-G4xQx-normal.webp?107505283",
+            "Alt Text": "Skullclamp"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-naqly-normal.webp?107505281",
+            "Alt Text": "Sol Ring"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-yjGGP-normal.webp?126019473",
+            "Alt Text": "Sword of the Squeak"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-9mqg0-normal.webp?126019477",
+            "Alt Text": "Talisman of Resilience"
+        }
+    ],
+    "Enchantments": [
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-1vaVB-normal.webp?120745342",
+            "Alt Text": "Bastion of Remembrance"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-DjyR9-normal.webp?125742679",
+            "Alt Text": "Beastmaster Ascension"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-zbGja-normal.webp?125742695",
+            "Alt Text": "Binding the Old Gods"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-pRGGq-normal.webp?126019353",
+            "Alt Text": "Gourmand's Talent"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-BXb4P-normal.webp?125169238",
+            "Alt Text": "Moldervine Reclamation"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-Q42A5-normal.webp?125742850",
+            "Alt Text": "Squirrel Nest"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-1vamz-normal.webp?126019509",
+            "Alt Text": "Wolfwillow Haven"
+        }
+    ],
+    "Lands": [
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-aQGqd-normal.webp?126019284",
+            "Alt Text": "Barren Moor"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-G4xqZ-normal.webp?107504992",
+            "Alt Text": "Bojuka Bog"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-8Oaal-normal.webp?113792019",
+            "Alt Text": "Command Tower"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-3qNgR-normal.webp?107505071",
+            "Alt Text": "Evolving Wilds"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-MxmRV-normal.webp?107505064",
+            "Alt Text": "Exotic Orchard"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-o8G9J-normal.webp?107498180",
+            "Alt Text": "Forest"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-Wa3Z5-normal.webp?126019338",
+            "Alt Text": "Golgari Rot Farm"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-q4Gq5-normal.webp?126019350",
+            "Alt Text": "Grim Backwoods"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-DjyBz-normal.webp?125371452",
+            "Alt Text": "Haunted Mire"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-J9JQR-normal.webp?125742773",
+            "Alt Text": "Jungle Hollow"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-01aA5-normal.webp?122261620",
+            "Alt Text": "Llanowar Wastes"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-Xd0Po-normal.webp?126019416",
+            "Alt Text": "Necroblossom Snarl"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-q4GXr-normal.webp?124814283",
+            "Alt Text": "Oran-Rief, the Vastwood"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-R9rDv-normal.webp?109297618",
+            "Alt Text": "Path of Ancestry"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-N97jg-normal.webp?107498396",
+            "Alt Text": "Swamp"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-loGmj-normal.webp?126019471",
+            "Alt Text": "Swarmyard"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-PbVl9-normal.webp?126019476",
+            "Alt Text": "Tainted Wood"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-6JaGO-normal.webp?126019489",
+            "Alt Text": "Temple of Malady"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-V26Rx-normal.webp?125000228",
+            "Alt Text": "Terramorphic Expanse"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-1va9a-normal.webp?125371584",
+            "Alt Text": "Tranquil Thicket"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-BXbGM-normal.webp?126019507",
+            "Alt Text": "Twilight Mire"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-enGJv-normal.webp?126019506",
+            "Alt Text": "Viridescent Bog"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-loGWe-normal.webp?124615190",
+            "Alt Text": "Woodland Cemetery"
+        }
+    ],
+    "Information": "Token based deck, mainly focused on squirrels. There is also some lifegain to help balance with Hazel's activated ability. Deck is pretty easy, generate tokens and use Hazel for some extra mana you might need. Go wide with tokens. ",
+    "Extra": "Uses a lot of tokens such as clue, food and treasures. Deck if weak to board wipes and lacks recursion despite some cards requiring sacs.",
+    "Difficulty": "Easy",
+    "Keywords": [
+        "Trample",
+        "Reach",
+        "Flying",
+        "Vigilance",
+        "Haste",
+        "Menace",
+        "Deathtouch",
+        "Myriad",
+        "Indestructible",
+        "Escape",
+        "Scry",
+        "Storm",
+        "Cycling",
+        "Kicker",
+        "Changeling",
+        "Equip"
+    ]
 }

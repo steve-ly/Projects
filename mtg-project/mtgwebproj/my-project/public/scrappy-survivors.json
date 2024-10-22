@@ -1,377 +1,404 @@
 {
-    "DeckName":"Scrappy Survivors",
-    "Commander":[
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-MxMrB-normal.webp?125985439",
-        "Alt Text": "Dogmeat, Ever Loyal"
-    }],
-    "BackUp":[
+    "DeckName": "Scrappy Survivors",
+    "Commander": [
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-MxMrB-normal.webp?125985439",
+            "Alt Text": "Dogmeat, Ever Loyal"
+        }
+    ],
+    "BackUp": [
         {
             "Image Source": "https://assets.moxfield.net/cards/card-R9768-normal.webp?125985753",
             "Alt Text": "Preston Garvey, Minuteman"
         }
     ],
-    "Creatures":[
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-enBX8-normal.webp?125985270",
-        "Alt Text": "Armory Paladin"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-R97bl-normal.webp?125985309",
-        "Alt Text": "Bighorner Rancher"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-AWod5-normal.webp?125985338",
-        "Alt Text": "Brotherhood Outcast"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-G4K6B-normal.webp?125985351",
-        "Alt Text": "Cait, Cage Brawler"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-BXj25-normal.webp?125985365",
-        "Alt Text": "Cass, Hand of Vengeance"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-V2r05-normal.webp?125985388",
-        "Alt Text": "Codsworth, Handy Helper"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-dXB3X-normal.webp?125985397",
-        "Alt Text": "Commander Sofia Daguerre"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-Wa59l-normal.webp?125985410",
-        "Alt Text": "Crimson Caravaneer"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-Dj3X5-normal.webp?125985453",
-        "Alt Text": "Duchess, Wayward Tavernkeep"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-zbZRK-normal.webp?125707764",
-        "Alt Text": "Gunner Conscript"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-BXjx5-normal.webp?125985541",
-        "Alt Text": "Ian the Reckless"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-Q4mye-normal.webp?125985640",
-        "Alt Text": "Mister Gutsy"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-yjZQ0-normal.webp?125985636",
-        "Alt Text": "Moira Brown, Guide Author"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-AWoDR-normal.webp?125340141",
-        "Alt Text": "Puresteel Paladin"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-zbZo8-normal.webp?125985877",
-        "Alt Text": "Super Mutant Scavenger"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-7vJg8-normal.webp?125985966",
-        "Alt Text": "Three Dog, Galaxy News DJ"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-9mPXg-normal.webp?125986007",
-        "Alt Text": "Veronica, Dissident Scribe"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-PbP9J-normal.webp?116659694",
-        "Alt Text": "Blasphemous Act"
-    }],
-    "Sorceries":[
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-PbP2n-normal.webp?125985621",
-        "Alt Text": "Megaton's Fate"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-w2Z6m-normal.webp?125985843",
-        "Alt Text": "Single Combat"
-    }],
-    "Instants":[
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-naNrA-normal.webp?125985340",
-        "Alt Text": "Break Down"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-J9DBB-normal.webp?125339772",
-        "Alt Text": "Chaos Warp"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-q4BjP-normal.webp?125134431",
-        "Alt Text": "Heroic Intervention"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-Mxnre-normal.webp?125985551",
-        "Alt Text": "Inventory Management"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-J9DzN-normal.webp?114427261",
-        "Alt Text": "Path to Exile"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-43xnr-normal.webp?125985977",
-        "Alt Text": "Valorous Stance"
-    }],
-    "Artifacts":[
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-XdorM-normal.webp?125985241",
-        "Alt Text": "Agility Bobblehead"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-3qD31-normal.webp?113784059",
-        "Alt Text": "Arcane Signet"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-ZO6rb-normal.webp?125707560",
-        "Alt Text": "Basilisk Collar"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-43xg9-normal.webp?125985312",
-        "Alt Text": "Behemoth Sledge"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-enBm8-normal.webp?125985328",
-        "Alt Text": "Bloodforged Battle-Axe"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-Dj37l-normal.webp?125985343",
-        "Alt Text": "Brass Knuckles"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-Wa5rD-normal.webp?125985379",
-        "Alt Text": "Champion's Helm"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-G4Kw4-normal.webp?125985472",
-        "Alt Text": "Explorer's Scope"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-01KwJ-normal.webp?125985477",
-        "Alt Text": "Fireshrieker"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-q4BQx-normal.webp?125985573",
-        "Alt Text": "Junk Jet"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-AWonD-normal.webp?125985625",
-        "Alt Text": "Masterwork of Ingenuity"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-6Jn4w-normal.webp?125985730",
-        "Alt Text": "Perception Bobblehead"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-PbP23-normal.webp?125985731",
-        "Alt Text": "Pip-Boy 3000"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-N9JoZ-normal.webp?125985750",
-        "Alt Text": "Pre-War Formalwear"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-Xdob1-normal.webp?125985839",
-        "Alt Text": "Silver Shroud Costume"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-9mPz4-normal.webp?107475862",
-        "Alt Text": "Sol Ring"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-KPx8d-normal.webp?107475944",
-        "Alt Text": "Swiftfoot Boots"
-    }],
-    "Enchantments":[
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-vrZ4p-normal.webp?125985251",
-        "Alt Text": "Abundant Growth"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-XdoAG-normal.webp?125985248",
-        "Alt Text": "Acquired Mutation"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-KPxBK-normal.webp?124022470",
-        "Alt Text": "All That Glitters"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-Xdo4V-normal.webp?125985266",
-        "Alt Text": "Almost Perfect"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-Dj30M-normal.webp?125985257",
-        "Alt Text": "Animal Friend"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-1vyox-normal.webp?125134369",
-        "Alt Text": "Fertile Ground"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-q4BNx-normal.webp?125707751",
-        "Alt Text": "Grim Reaper's Sprint"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-3qyb1-normal.webp?125985539",
-        "Alt Text": "Idolized"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-pRBv1-normal.webp?124784257",
-        "Alt Text": "Mantle of the Ancients"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-r8BQV-normal.webp?125708003",
-        "Alt Text": "Rancor"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-G4Kz2-normal.webp?125708094",
-        "Alt Text": "Squirrel Nest"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-q4B22-normal.webp?125985862",
-        "Alt Text": "Sticky Fingers"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-g3X25-normal.webp?125985852",
-        "Alt Text": "Strong Back"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-xR3mG-normal.webp?125985992",
-        "Alt Text": "Vault 101: Birthday Party"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-8Od4A-normal.webp?125985984",
-        "Alt Text": "Vault 21: House Gambit"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-O9dJ4-normal.webp?125986031",
-        "Alt Text": "Well Rested"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-1vyXv-normal.webp?125986027",
-        "Alt Text": "Wild Growth"
-    }],
-    "Lands":[
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-J9DO8-normal.webp?125985293",
-        "Alt Text": "Ash Barrens"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-naNvN-normal.webp?120712431",
-        "Alt Text": "Buried Ruin"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-7vJBp-normal.webp?124226128",
-        "Alt Text": "Canopy Vista"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-dXB98-normal.webp?110953051",
-        "Alt Text": "Cinder Glade"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-V2ra8-normal.webp?125339790",
-        "Alt Text": "Clifftop Retreat"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-8OnxA-normal.webp?113784070",
-        "Alt Text": "Command Tower"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-2zW6B-normal.webp?107475326",
-        "Alt Text": "Evolving Wilds"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-jqBrB-normal.webp?107475311",
-        "Alt Text": "Exotic Orchard"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-q4OzP-normal.webp?107475372",
-        "Alt Text": "Forest"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-ZO65P-normal.webp?124022764",
-        "Alt Text": "Jungle Shrine"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-bRBMg-normal.webp?125985570",
-        "Alt Text": "Junktown"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-Dj3Pl-normal.webp?125134573",
-        "Alt Text": "Mossfire Valley"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-yjabr-normal.webp?107475598",
-        "Alt Text": "Mountain"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-g3XVZ-normal.webp?109266453",
-        "Alt Text": "Path of Ancestry"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-xR3zg-normal.webp?107475697",
-        "Alt Text": "Plains"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-o8BwJ-normal.webp?125985781",
-        "Alt Text": "Roadside Reliquary"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-aQBnq-normal.webp?107475778",
-        "Alt Text": "Rogue's Passage"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-3qD1l-normal.webp?123168679",
-        "Alt Text": "Rootbound Crag"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-8Odwy-normal.webp?125708047",
-        "Alt Text": "Scattered Groves"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-1vyDv-normal.webp?125985807",
-        "Alt Text": "Scavenger Grounds"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-9mP71-normal.webp?125708081",
-        "Alt Text": "Sheltered Thicket"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-KPxya-normal.webp?125340255",
-        "Alt Text": "Sungrass Prairie"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-Dj3el-normal.webp?124580544",
-        "Alt Text": "Sunpetal Grove"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-PbPgn-normal.webp?125985882",
-        "Alt Text": "Sunscorched Divide"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-PbPn3-normal.webp?124226653",
-        "Alt Text": "Temple of Abandon"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-V2rlR-normal.webp?125708164",
-        "Alt Text": "Temple of Plenty"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-o8BvJ-normal.webp?107476026",
-        "Alt Text": "Temple of the False God"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-6Jnd7-normal.webp?125134857",
-        "Alt Text": "Temple of Triumph"
-    },
-    {
-        "Image Source": "https://assets.moxfield.net/cards/card-5MAjP-normal.webp?125134856",
-        "Alt Text": "Terramorphic Expanse"
-    }
-]
+    "Creatures": [
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-enBX8-normal.webp?125985270",
+            "Alt Text": "Armory Paladin"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-R97bl-normal.webp?125985309",
+            "Alt Text": "Bighorner Rancher"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-AWod5-normal.webp?125985338",
+            "Alt Text": "Brotherhood Outcast"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-G4K6B-normal.webp?125985351",
+            "Alt Text": "Cait, Cage Brawler"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-BXj25-normal.webp?125985365",
+            "Alt Text": "Cass, Hand of Vengeance"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-V2r05-normal.webp?125985388",
+            "Alt Text": "Codsworth, Handy Helper"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-dXB3X-normal.webp?125985397",
+            "Alt Text": "Commander Sofia Daguerre"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-Wa59l-normal.webp?125985410",
+            "Alt Text": "Crimson Caravaneer"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-Dj3X5-normal.webp?125985453",
+            "Alt Text": "Duchess, Wayward Tavernkeep"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-zbZRK-normal.webp?125707764",
+            "Alt Text": "Gunner Conscript"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-BXjx5-normal.webp?125985541",
+            "Alt Text": "Ian the Reckless"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-Q4mye-normal.webp?125985640",
+            "Alt Text": "Mister Gutsy"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-yjZQ0-normal.webp?125985636",
+            "Alt Text": "Moira Brown, Guide Author"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-AWoDR-normal.webp?125340141",
+            "Alt Text": "Puresteel Paladin"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-zbZo8-normal.webp?125985877",
+            "Alt Text": "Super Mutant Scavenger"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-7vJg8-normal.webp?125985966",
+            "Alt Text": "Three Dog, Galaxy News DJ"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-9mPXg-normal.webp?125986007",
+            "Alt Text": "Veronica, Dissident Scribe"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-PbP9J-normal.webp?116659694",
+            "Alt Text": "Blasphemous Act"
+        }
+    ],
+    "Sorceries": [
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-PbP2n-normal.webp?125985621",
+            "Alt Text": "Megaton's Fate"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-w2Z6m-normal.webp?125985843",
+            "Alt Text": "Single Combat"
+        }
+    ],
+    "Instants": [
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-naNrA-normal.webp?125985340",
+            "Alt Text": "Break Down"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-J9DBB-normal.webp?125339772",
+            "Alt Text": "Chaos Warp"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-q4BjP-normal.webp?125134431",
+            "Alt Text": "Heroic Intervention"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-Mxnre-normal.webp?125985551",
+            "Alt Text": "Inventory Management"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-J9DzN-normal.webp?114427261",
+            "Alt Text": "Path to Exile"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-43xnr-normal.webp?125985977",
+            "Alt Text": "Valorous Stance"
+        }
+    ],
+    "Artifacts": [
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-XdorM-normal.webp?125985241",
+            "Alt Text": "Agility Bobblehead"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-3qD31-normal.webp?113784059",
+            "Alt Text": "Arcane Signet"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-ZO6rb-normal.webp?125707560",
+            "Alt Text": "Basilisk Collar"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-43xg9-normal.webp?125985312",
+            "Alt Text": "Behemoth Sledge"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-enBm8-normal.webp?125985328",
+            "Alt Text": "Bloodforged Battle-Axe"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-Dj37l-normal.webp?125985343",
+            "Alt Text": "Brass Knuckles"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-Wa5rD-normal.webp?125985379",
+            "Alt Text": "Champion's Helm"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-G4Kw4-normal.webp?125985472",
+            "Alt Text": "Explorer's Scope"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-01KwJ-normal.webp?125985477",
+            "Alt Text": "Fireshrieker"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-q4BQx-normal.webp?125985573",
+            "Alt Text": "Junk Jet"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-AWonD-normal.webp?125985625",
+            "Alt Text": "Masterwork of Ingenuity"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-6Jn4w-normal.webp?125985730",
+            "Alt Text": "Perception Bobblehead"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-PbP23-normal.webp?125985731",
+            "Alt Text": "Pip-Boy 3000"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-N9JoZ-normal.webp?125985750",
+            "Alt Text": "Pre-War Formalwear"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-Xdob1-normal.webp?125985839",
+            "Alt Text": "Silver Shroud Costume"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-9mPz4-normal.webp?107475862",
+            "Alt Text": "Sol Ring"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-KPx8d-normal.webp?107475944",
+            "Alt Text": "Swiftfoot Boots"
+        }
+    ],
+    "Enchantments": [
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-vrZ4p-normal.webp?125985251",
+            "Alt Text": "Abundant Growth"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-XdoAG-normal.webp?125985248",
+            "Alt Text": "Acquired Mutation"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-KPxBK-normal.webp?124022470",
+            "Alt Text": "All That Glitters"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-Xdo4V-normal.webp?125985266",
+            "Alt Text": "Almost Perfect"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-Dj30M-normal.webp?125985257",
+            "Alt Text": "Animal Friend"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-1vyox-normal.webp?125134369",
+            "Alt Text": "Fertile Ground"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-q4BNx-normal.webp?125707751",
+            "Alt Text": "Grim Reaper's Sprint"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-3qyb1-normal.webp?125985539",
+            "Alt Text": "Idolized"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-pRBv1-normal.webp?124784257",
+            "Alt Text": "Mantle of the Ancients"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-r8BQV-normal.webp?125708003",
+            "Alt Text": "Rancor"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-G4Kz2-normal.webp?125708094",
+            "Alt Text": "Squirrel Nest"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-q4B22-normal.webp?125985862",
+            "Alt Text": "Sticky Fingers"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-g3X25-normal.webp?125985852",
+            "Alt Text": "Strong Back"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-xR3mG-normal.webp?125985992",
+            "Alt Text": "Vault 101: Birthday Party"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-8Od4A-normal.webp?125985984",
+            "Alt Text": "Vault 21: House Gambit"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-O9dJ4-normal.webp?125986031",
+            "Alt Text": "Well Rested"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-1vyXv-normal.webp?125986027",
+            "Alt Text": "Wild Growth"
+        }
+    ],
+    "Lands": [
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-J9DO8-normal.webp?125985293",
+            "Alt Text": "Ash Barrens"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-naNvN-normal.webp?120712431",
+            "Alt Text": "Buried Ruin"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-7vJBp-normal.webp?124226128",
+            "Alt Text": "Canopy Vista"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-dXB98-normal.webp?110953051",
+            "Alt Text": "Cinder Glade"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-V2ra8-normal.webp?125339790",
+            "Alt Text": "Clifftop Retreat"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-8OnxA-normal.webp?113784070",
+            "Alt Text": "Command Tower"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-2zW6B-normal.webp?107475326",
+            "Alt Text": "Evolving Wilds"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-jqBrB-normal.webp?107475311",
+            "Alt Text": "Exotic Orchard"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-q4OzP-normal.webp?107475372",
+            "Alt Text": "Forest"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-ZO65P-normal.webp?124022764",
+            "Alt Text": "Jungle Shrine"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-bRBMg-normal.webp?125985570",
+            "Alt Text": "Junktown"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-Dj3Pl-normal.webp?125134573",
+            "Alt Text": "Mossfire Valley"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-yjabr-normal.webp?107475598",
+            "Alt Text": "Mountain"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-g3XVZ-normal.webp?109266453",
+            "Alt Text": "Path of Ancestry"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-xR3zg-normal.webp?107475697",
+            "Alt Text": "Plains"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-o8BwJ-normal.webp?125985781",
+            "Alt Text": "Roadside Reliquary"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-aQBnq-normal.webp?107475778",
+            "Alt Text": "Rogue's Passage"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-3qD1l-normal.webp?123168679",
+            "Alt Text": "Rootbound Crag"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-8Odwy-normal.webp?125708047",
+            "Alt Text": "Scattered Groves"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-1vyDv-normal.webp?125985807",
+            "Alt Text": "Scavenger Grounds"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-9mP71-normal.webp?125708081",
+            "Alt Text": "Sheltered Thicket"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-KPxya-normal.webp?125340255",
+            "Alt Text": "Sungrass Prairie"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-Dj3el-normal.webp?124580544",
+            "Alt Text": "Sunpetal Grove"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-PbPgn-normal.webp?125985882",
+            "Alt Text": "Sunscorched Divide"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-PbPn3-normal.webp?124226653",
+            "Alt Text": "Temple of Abandon"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-V2rlR-normal.webp?125708164",
+            "Alt Text": "Temple of Plenty"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-o8BvJ-normal.webp?107476026",
+            "Alt Text": "Temple of the False God"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-6Jnd7-normal.webp?125134857",
+            "Alt Text": "Temple of Triumph"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-5MAjP-normal.webp?125134856",
+            "Alt Text": "Terramorphic Expanse"
+        }
+    ],
+    "Information": "Aura's and equipment based deck with junk tokens. Use Dogmeat to generate junk tokens or to fetch auras and equipment from the graveyard. ",
+    "Extra": "Its best to use junk tokens before your land drop in the early game, otherwise Junk tokens are a great way to look for top deck options or get rid of lands you don't need.",
+    "Difficulty": "Easy",
+    "Keywords": [
+        "Trample",
+        "Vigilance",
+        "Indestructible",
+        "Ward",
+        "Flash",
+        "Double-Strike",
+        "Menace",
+        "Hexproof",
+        "Deathtouch",
+        "Lifelink",
+        "Equip",
+        "Shroud",
+        "Haste",
+        "Goad",
+        "Scry",
+        "Cycling"
+    ]
 }

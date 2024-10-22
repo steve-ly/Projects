@@ -1,0 +1,377 @@
+{
+    "DeckName": "Revenant Recon",
+    "Commander": [
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-xRVVG-normal.webp?128473139",
+            "Alt Text": "Mirko, Obsessive Theorist"
+        }
+    ],
+    "Creatures": [
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-jqVy7-normal.webp?128111343",
+            "Alt Text": "Amphin Mutineer"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-7vngj-normal.webp?125370219",
+            "Alt Text": "Baleful Strix"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-XdvQ1-normal.webp?128473042",
+            "Alt Text": "Copy Catchers"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-9mdwe-normal.webp?128111381",
+            "Alt Text": "Dimir Spybug"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-J9vrM-normal.webp?128473048",
+            "Alt Text": "Dogged Detective"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-w2NRl-normal.webp?127911751",
+            "Alt Text": "Doom Whisperer"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-R9zbz-normal.webp?128473053",
+            "Alt Text": "Dream Eater"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-vrNK1-normal.webp?128473080",
+            "Alt Text": "Eye of Duskmantle"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-lorP6-normal.webp?128473074",
+            "Alt Text": "Final-Word Phantom"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-01b5J-normal.webp?128111425",
+            "Alt Text": "Grave Titan"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-V2Oax-normal.webp?128111461",
+            "Alt Text": "Lazav, the Multifarious"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-5MxqB-normal.webp?128111459",
+            "Alt Text": "Massacre Wurm"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-5MxyM-normal.webp?128473125",
+            "Alt Text": "Master of Death"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-3qWzK-normal.webp?128473140",
+            "Alt Text": "Mulldrifter"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-BXoBj-normal.webp?128473151",
+            "Alt Text": "Nightveil Sprite"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-3qWb6-normal.webp?128473154",
+            "Alt Text": "Overseer of the Damned"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-MxpBV-normal.webp?127295370",
+            "Alt Text": "Phyrexian Metamorph"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-R9z3q-normal.webp?128111532",
+            "Alt Text": "Ravenous Chupacabra"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-Pbv2p-normal.webp?128473201",
+            "Alt Text": "Shriekmaw"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-PbvKl-normal.webp?128473202",
+            "Alt Text": "Sinister Starfish"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-7vn21-normal.webp?128473208",
+            "Alt Text": "Sphinx of the Second Sun"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-2zyMj-normal.webp?128473210",
+            "Alt Text": "Syr Konrad, the Grim"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-3qW1K-normal.webp?128473228",
+            "Alt Text": "Thoughtbound Phantasm"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-zbNQN-normal.webp?128111590",
+            "Alt Text": "Twilight Prophet"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-zbN24-normal.webp?128473236",
+            "Alt Text": "Unshakable Tail"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-1vKR3-normal.webp?128473240",
+            "Alt Text": "Vizier of Many Faces"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-BXoK5-normal.webp?128473229",
+            "Alt Text": "Watcher of Hours"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-Xdv5x-normal.webp?128111603",
+            "Alt Text": "Whispering Snitch"
+        }
+    ],
+    "Sorceries": [
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-01brJ-normal.webp?128473023",
+            "Alt Text": "Black Sun's Zenith"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-r8NKn-normal.webp?128473030",
+            "Alt Text": "Charnel Serenade"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-BXoQQ-normal.webp?128473045",
+            "Alt Text": "Connive // Concoct"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-Mxp30-normal.webp?128111378",
+            "Alt Text": "Deep Analysis"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-XdvAK-normal.webp?128473055",
+            "Alt Text": "Discovery // Dispersal"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-O9voX-normal.webp?128111488",
+            "Alt Text": "Notion Rain"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-pR6oq-normal.webp?124613866",
+            "Alt Text": "Reanimate"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-pR6zB-normal.webp?128473182",
+            "Alt Text": "Rise of the Dark Realms"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-BXoxQ-normal.webp?127645809",
+            "Alt Text": "Toxic Deluge"
+        }
+    ],
+    "Instants": [
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-43Dz7-normal.webp?123773173",
+            "Alt Text": "Brainstorm"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-1vKjR-normal.webp?127295239",
+            "Alt Text": "Consider"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-3qWx1-normal.webp?128473040",
+            "Alt Text": "Counterpoint"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-xRNmP-normal.webp?128473046",
+            "Alt Text": "Curate"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-g3mvp-normal.webp?128473065",
+            "Alt Text": "Ephara's Dispersal"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-6JAwp-normal.webp?128473141",
+            "Alt Text": "Mission Briefing"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-naoOZ-normal.webp?128473159",
+            "Alt Text": "Otherworldly Gaze"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-Q4vO2-normal.webp?128473162",
+            "Alt Text": "Pile On"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-9mdX6-normal.webp?128473160",
+            "Alt Text": "Price of Fame"
+        }
+    ],
+    "Artifacts": [
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-r8NwV-normal.webp?113791621",
+            "Alt Text": "Arcane Signet"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-vrNw8-normal.webp?122260308",
+            "Alt Text": "Dimir Signet"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-43D1r-normal.webp?128111388",
+            "Alt Text": "Everflowing Chalice"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-6JARw-normal.webp?128473071",
+            "Alt Text": "Foreboding Steamboat"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-9mdv1-normal.webp?105766260",
+            "Alt Text": "Mind Stone"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-Q4vre-normal.webp?128473167",
+            "Alt Text": "Ransom Note"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-7vnQ9-normal.webp?105766348",
+            "Alt Text": "Sol Ring"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-bRAb7-normal.webp?114732418",
+            "Alt Text": "Talisman of Dominance"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-7vn19-normal.webp?125168059",
+            "Alt Text": "Thought Vessel"
+        }
+    ],
+    "Enchantments": [
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-O9vjo-normal.webp?128111341",
+            "Alt Text": "Animate Dead"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-2zyNB-normal.webp?128473031",
+            "Alt Text": "Case of the Shifting Visage"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-endX1-normal.webp?128473056",
+            "Alt Text": "Disinformation Campaign"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-q43de-normal.webp?128473066",
+            "Alt Text": "Enhanced Surveillance"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-8OJrl-normal.webp?126572099",
+            "Alt Text": "Necromancy"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-zbNKK-normal.webp?125168003",
+            "Alt Text": "Phyrexian Arena"
+        }
+    ],
+    "Lands": [
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-5Mx1d-normal.webp?128111337",
+            "Alt Text": "Ash Barrens"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-mP5R0-normal.webp?106485160",
+            "Alt Text": "Bojuka Bog"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-naoRA-normal.webp?128111371",
+            "Alt Text": "Choked Estuary"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-Wavlb-normal.webp?113791624",
+            "Alt Text": "Command Tower"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-xRNOm-normal.webp?128473038",
+            "Alt Text": "Darkwater Catacombs"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-xRNOV-normal.webp?126218215",
+            "Alt Text": "Dimir Aqueduct"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-J9vdN-normal.webp?128111392",
+            "Alt Text": "Drownyard Temple"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-Dj6O5-normal.webp?128111412",
+            "Alt Text": "Fetid Pools"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-zbNOm-normal.webp?128473101",
+            "Alt Text": "Hostile Desert"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-naDeA-normal.webp?105750332",
+            "Alt Text": "Island"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-XdvNM-normal.webp?114457319",
+            "Alt Text": "Myriad Landscape"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-endyy-normal.webp?125741473",
+            "Alt Text": "Mystic Sanctuary"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-end08-normal.webp?128473161",
+            "Alt Text": "Port of Karfell"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-Dj6Ol-normal.webp?125168017",
+            "Alt Text": "Reliquary Tower"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-XdvaG-normal.webp?128111524",
+            "Alt Text": "River of Tears"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-bRAP7-normal.webp?105766317",
+            "Alt Text": "Rogue's Passage"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-zbNw8-normal.webp?124055579",
+            "Alt Text": "Sunken Hollow"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-BXy9V-normal.webp?105750503",
+            "Alt Text": "Swamp"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-8OJMa-normal.webp?127645796",
+            "Alt Text": "Tainted Isle"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-Pbv63-normal.webp?105766380",
+            "Alt Text": "Temple of the False God"
+        },
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-lorgG-normal.webp?128473226",
+            "Alt Text": "Tocasia's Dig Site"
+        }
+    ],
+    "BackUp": [
+        {
+            "Image Source": "https://assets.moxfield.net/cards/card-01b4W-normal.webp?128473128",
+            "Alt Text": "Marvo, Deep Operative"
+        }
+    ],
+    "Information": "Graveyard recursion deck that is based on surveiling. Surveil to fill the grave and use Mirko to recurse back.",
+    "Difficulty": "Medium",
+    "Keywords": [
+        "Vigilance",
+        "Flying",
+        "Encore",
+        "Deathtouch",
+        "Surveil",
+        "Menace",
+        "Trample",
+        "Flash",
+        "Lifelink",
+        "Defender",
+        "Ascend",
+        "Ward",
+        "Suspend",
+        "Flashback",
+        "Crew",
+        "Goad",
+        "Cycling"
+    ],
+    "Extra": "Backup commander is very out of place in this deck, will update"
+}
